@@ -151,3 +151,8 @@ release.properties
 ######################
 /pet-clinic-data/target/
 /pet-clinic-web/target/
+
+######################
+# Unnecessary files
+######################
+pet-clinic-data/src/main/java/com/example/Main.java
