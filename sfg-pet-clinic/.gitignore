@@ -139,3 +139,15 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+######################
+# Maven Release Plugin Files
+######################
+*.releaseBackup
+release.properties
+
+######################
+# Untracked Files
+######################
+/pet-clinic-data/target/
+/pet-clinic-web/target/
